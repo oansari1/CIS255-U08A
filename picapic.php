@@ -27,7 +27,9 @@ Building HTML markup using print command in PHP
 <body>
 
 <?php
+// isset() tests for data at the gateway, required on many servers
     if(isset($_GET["pic"])) {$pic = $_GET["pic"]; } else {$pic = ""; }
+// Checking which radio button has been selected
     if($pic == "a")
         {
             print
