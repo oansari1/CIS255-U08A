@@ -13,9 +13,10 @@ The user can select from three descriptions of pictures using radio buttons. Onc
 
 What objectives are you demonstrating?
 
-(place here)
+Receive data via GET method
+Building HTML markup using print command in PHP
 
---> 
+-->
 
 <style>
 
