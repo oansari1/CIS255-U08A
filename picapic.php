@@ -31,23 +31,17 @@ Building HTML markup using print command in PHP
     if($pic == "a")
         {
             print
-            "<body>
-            <img src='Dj_santa_2.jpg'>
-            </body>"
+            "<img src='Dj_santa_2.jpg'>"
         ;}
     if($pic == "b")
         {
             print
-            "<body>
-            <img src='Viktor_Pfeifer.JPG'>
-            </body>"
+            "<img src='Viktor_Pfeifer.JPG'>"
         ;}
     if($pic == "c")
         {
             print
-            "<body>
-            <img src='Gandhi_spinning_1942.JPG'>
-            </body>"
+            "<img src='Gandhi_spinning_1942.JPG'>"
         ;}
 ?>
 </body>
